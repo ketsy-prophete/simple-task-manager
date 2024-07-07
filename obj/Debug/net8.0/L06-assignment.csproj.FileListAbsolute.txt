@@ -1,0 +1,28 @@
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.exe
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.deps.json
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.runtimeconfig.json
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.AssemblyInfoInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.AssemblyInfo.cs
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.csproj.CoreCompileInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\refint\L06-assignment.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.genruntimeconfig.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\L06-assignment\obj\Debug\net8.0\ref\L06-assignment.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.exe
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.deps.json
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.runtimeconfig.json
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\bin\Debug\net8.0\L06-assignment.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.AssemblyInfoInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.AssemblyInfo.cs
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.csproj.CoreCompileInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\refint\L06-assignment.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\L06-assignment.genruntimeconfig.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\L06-assignment\obj\Debug\net8.0\ref\L06-assignment.dll
